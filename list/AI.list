@@ -16,12 +16,6 @@ DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,jina.ai
 DOMAIN-SUFFIX,neverends.life
 
-# GitHub
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN,raw.githubusercontent.com
-
 
 # Gemini
 DOMAIN-SUFFIX,gemini.google.com
