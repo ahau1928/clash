@@ -22,6 +22,6 @@ https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/Clash-Dev.txt
 
 订阅地址转换Docker指令（20241123更新：支持HY2节点）：
 
-docker run --name=SubConverter -d --restart=always -p 25500:25500 asdlokj1qpi23/subconverter:latest
+--docker run --name=SubConverter -d --restart=always -p 25500:25500 asdlokj1qpi23/subconverter:latest--
 
 原始参考帖来自Aethersailor：https://github.com/Aethersailor/Custom_OpenClash_Rules/wiki/OpenClash-%E8%AE%BE%E7%BD%AE%E6%96%B9%E6%A1%88
