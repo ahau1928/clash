@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,neverends.life
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN,raw.githubusercontent.com
 
 
 # Gemini
