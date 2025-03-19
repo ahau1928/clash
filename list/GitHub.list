@@ -30,7 +30,4 @@ DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,thegithubshop.com
-DOMAIN,raw.githubusercontent.com
-DOMAIN,api.github.com
-DOMAIN,collector.github.com
 DOMAIN-KEYWORD,github
