@@ -2,12 +2,18 @@
 # 域名后缀匹配
 
 # AIGC
-DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,leonardo.ai
 DOMAIN-SUFFIX,freepik.com
 DOMAIN-SUFFIX,magnific.ai
 DOMAIN-SUFFIX,krea.ai
 DOMAIN-SUFFIX,fal.ai
+DOMAIN-SUFFIX,viggle.ai
+DOMAIN-SUFFIX,udio.com
+DOMAIN-SUFFIX,firefly.adobe.com
+DOMAIN-SUFFIX,blackforestlabs.ai
+DOMAIN-SUFFIX,replicate.com
+DOMAIN-SUFFIX,dzine.ai
+DOMAIN-SUFFIX,florafauna.ai
 DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,huggingface.co
@@ -15,6 +21,21 @@ DOMAIN-SUFFIX,tusiart.com
 DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,jina.ai
 DOMAIN-SUFFIX,neverends.life
+DOMAIN-SUFFIX,openart.ai
+DOMAIN-SUFFIX,comfyworkflows.com
+DOMAIN-SUFFIX,goenhance.ai
+DOMAIN-SUFFIX,remaker.ai
+DOMAIN-SUFFIX,kaedim3d.com
+DOMAIN-SUFFIX,artius.studio
+DOMAIN-SUFFIX,photoshot.app
+DOMAIN-SUFFIX,pictorial.ai
+DOMAIN-SUFFIX,lexica.art
+DOMAIN-SUFFIX,iconifyai.com
+DOMAIN-SUFFIX,murf.ai
+DOMAIN-SUFFIX,wonderdynamics.com
+DOMAIN-SUFFIX,rightbrain.art
+DOMAIN-SUFFIX,flair.ai
+DOMAIN-SUFFIX,thepersona.io
 
 
 # Gemini
