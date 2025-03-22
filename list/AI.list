@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,krea.ai
 DOMAIN-SUFFIX,fal.ai
 DOMAIN-SUFFIX,viggle.ai
 DOMAIN-SUFFIX,udio.com
-DOMAIN-SUFFIX,firefly.adobe.com
 DOMAIN-SUFFIX,blackforestlabs.ai
 DOMAIN-SUFFIX,replicate.com
 DOMAIN-SUFFIX,dzine.ai
@@ -38,6 +37,7 @@ DOMAIN-SUFFIX,flair.ai
 DOMAIN-SUFFIX,thepersona.io
 
 # Adobe
+DOMAIN-SUFFIX,firefly.adobe.com
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,aws.adobess.com
 DOMAIN-SUFFIX,amazonaws.com
