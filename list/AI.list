@@ -41,6 +41,13 @@ DOMAIN-SUFFIX,firefly.adobe.com
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,aws.adobess.com
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN,api-ipv4.ip.sb
+DOMAIN,api.ipify.org
+DOMAIN,api.ip.sb
+DOMAIN,cc-api-data.adobe.io
+DOMAIN,firefly.adobe.io
+DOMAIN,firefly-clio-imaging.adobe.io
+DOMAIN,presigned-firefly-prod.s3-accelerate.amazonaws.com
 
 # Gemini
 DOMAIN-SUFFIX,gemini.google.com
