@@ -37,6 +37,10 @@ DOMAIN-SUFFIX,wonderdynamics.com
 DOMAIN-SUFFIX,flair.ai
 DOMAIN-SUFFIX,thepersona.io
 
+# Adobe
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,aws.adobess.com
+DOMAIN-SUFFIX,amazonaws.com
 
 # Gemini
 DOMAIN-SUFFIX,gemini.google.com
