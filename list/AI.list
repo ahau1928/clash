@@ -43,6 +43,7 @@ DOMAIN,cc-api-data.adobe.io
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,aws.adobess.com
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN,polka.typekit.com
 
 # DOMAIN,firefly.adobe.io
 # DOMAIN,firefly-clio-imaging.adobe.io
