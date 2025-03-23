@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,thepersona.io
 
 # Adobe
 DOMAIN,firefly.adobe.com
+DOMAIN,hbrt.adobe.com
 DOMAIN,cc-api-data.adobe.io
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,aws.adobess.com
