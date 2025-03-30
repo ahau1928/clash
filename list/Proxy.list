@@ -1,9 +1,9 @@
 #机场网站
 DOMAIN-SUFFIX,hongxingdl.club
-fbweb01
-fbweb02
-fbweba04
-flyingbird
+DOMAIN-KEYWORD,fbweb01
+DOMAIN-KEYWORD,fbweb02
+DOMAIN-KEYWORD,fbweba04
+DOMAIN-KEYWORD,flyingbird
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
