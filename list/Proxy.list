@@ -8,6 +8,9 @@ DOMAIN-KEYWORD,flyingbird
 #常用软件
 DOMAIN,insydium.ltd
 
+#常用网站
+DOMAIN,unsplash.com
+
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
