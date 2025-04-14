@@ -9,7 +9,8 @@ DOMAIN-KEYWORD,flyingbird
 DOMAIN,insydium.ltd
 
 #常用网站
-DOMAIN,unsplash.com
+DOMAIN-SUFFIX,unsplash.com
+DOMAIN-SUFFIX,polyhaven.com
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
