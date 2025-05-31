@@ -13,6 +13,9 @@ DOMAIN,insydium.ltd
 DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,polyhaven.com
 
+#素材网站
+DOMAIN-SUFFIX,premiumbeat.com
+
 #个人网站
 DOMAIN-SUFFIX,blenderguru.com
 
